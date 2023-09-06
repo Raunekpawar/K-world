@@ -19,6 +19,6 @@ Contributions:
 As a software engineer, I welcome contributions from the team to further improve the KDrama Recommendations System. If you are interested in contributing, you can fork the repository, create a new branch, implement your changes, and submit a pull request for thorough review.
 
 Contact:
-If you have any questions or suggestions regarding this project, please feel free to reach out to me at my email: raunekpawar@gmail.com. Collaboration and input from the team are highly valued and will help us deliver a more robust and user-friendly KDrama recommendation experience.
+If you have any questions or suggestions regarding this project, please feel free to reach out to me at my email: raunekpawar@gmail.com. Collaboration and input from the team are highly valued and will help deliver a more robust and user-friendly KDrama recommendation experience.
 
 Thank you for your interest  in this project. Let's work together to make this KDrama Recommendations System a success!
